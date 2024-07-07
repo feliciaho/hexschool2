@@ -1,10 +1,13 @@
 // 從localStorage中setItem會抓到string
 // 所以要轉成array
 // jsno.stringfyParse()
+// 但轉成array也是不能直接使用的array
+// 真正可以用的array要用json.Parse()
+
 
 // 從localStorage中getItem會抓到string
 // 所以要轉成array
-// jsno.Parse()
+// json.Parse()
 
 
 
