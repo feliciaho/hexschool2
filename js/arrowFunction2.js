@@ -29,5 +29,4 @@ console.log(ans1, ans2);
 //     return n1*n2
 // }
 let multiply = (n1,n2) =>(n1*n2)
-let res = multiply(2, 3)
-console.log (res)
+console.log (multiply(2, 3))
